@@ -1,0 +1,139 @@
+/*******  Fonts   ******/
+h1, h2 {
+  font-size: 80px;
+  font-family: 'Staatliches', cursive;
+}
+
+.label {
+  font-size: 70px;
+  font-family: 'Henny Penny', cursive;
+}
+
+h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 25px;
+}
+
+/*******  Alert  ******/
+.alert {
+  margin: 0 10%;
+}
+
+/*******  Intro  ******/
+.intro-text {
+  color: #000;
+}
+
+/*******  Intro images  ******/
+.intro-image {
+  width: 500px;
+  border-radius: 500px;
+}
+
+.top-cloud {
+  top: 250px;
+  right: 250px;
+  position: absolute;
+}
+
+.bottom-cloud {
+  left: 250px;
+  top: 600px;
+  position: absolute;
+}
+
+/*******  Navbar  ******/
+.comtainer-fluid {
+  padding-top: 5px
+}
+
+.nav-link {
+  text-align: right;
+}
+
+/*******  Intro text  ******/
+#title {
+  background-color: #1c2b2d;
+  color: #99a8b2;
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: #99a8b2;
+  margin: 3%;
+}
+
+/*******  Hobbies  ******/
+#hobbies {
+  text-align: center;
+  color: #fff;
+}
+
+.hobbies-image {
+  padding: 20px 0;
+  width: 50%;
+}
+
+.hobbies-text {
+  color: #99a8b2;
+}
+
+/*******  Experience  ******/
+#experience {
+  background-color: #99a8b2;
+  padding: 100px;
+}
+
+.card-body {
+  color: #1c2b2d;
+}
+
+.row {
+  margin: 2% 10%;
+}
+
+.experience-column {
+  padding: 3% 2%;
+  text-align: center;
+}
+
+.btn {
+  margin: 3.5px;
+}
+
+.experience-image {
+  background-color: #fff;
+  width: 70%
+}
+
+/*******  Contact  ******/
+.contact-me {
+  background-color: #1c2b2d;
+  padding-top: 10px;
+  margin: 0;
+}
+
+.contact-input {
+  width: 50%;
+  margin-bottom: 2px;
+}
+
+/*******  Icon  ******/
+.icon {
+  font-size: 20px;
+  margin: 10px;
+}
+
+/*******  Footer ******/
+#footer {
+  margin: 0;
+}
+
+.copyright {
+  font-size: 15px;
+}
